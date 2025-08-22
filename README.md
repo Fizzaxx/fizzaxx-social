@@ -3,7 +3,7 @@
 
 - 🔹 **Focus:** High-performance web applications, security-first design.  
 - 🔹 **Philosophy:** "Clean code isn’t a luxury, it’s a requirement."  
-- 🔹 **Tech:** JavaScript (React/Next.js/Vue/Angular/Node/Express), GraphQL TypeScript, Tailwind CSS, PostgreSQL, MongoDB, Strapi.
+- 🔹 **Tech:** JavaScript (React/Next.js/Vue/Angular/Node/Express), GraphQL, TypeScript, Tailwind CSS, PostgreSQL, MongoDB, Strapi.
 
 *"Build with purpose."*  
 
