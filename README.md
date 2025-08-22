@@ -52,7 +52,7 @@ A fully-featured, modern and simple Twitter/X clone built with Next.js 15, Supab
 
 ### ⚡ Technical Excellence
 
-- Next.js 14 App Router with Server Components
+- Next.js 15 App Router with Server Components
 - Supabase Integration for database and auth
 - Row Level Security for data protection
 - Optimized Images with Next.js Image component
@@ -60,7 +60,7 @@ A fully-featured, modern and simple Twitter/X clone built with Next.js 15, Supab
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js 14 (App Router)
+- **Framework:** Next.js 15 (App Router)
 - **Database:** Supabase PostgreSQL
 - **Authentication:** Supabase Auth
 - **Storage:** Supabase Storage
