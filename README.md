@@ -72,7 +72,7 @@ A fully-featured, modern and simple Twitter/X clone built with Next.js 15, Supab
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/fizzaxx-social.git
+git clone https://github.com/Fizzaxx/fizzaxx-social.git
 cd fizzaxx-social
 ```
 2. **Install dependencies**
