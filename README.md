@@ -15,7 +15,7 @@ A fully-featured, modern and simple Twitter/X clone built with Next.js 15, Supab
 
 ## 🌟 Live Demo
 
-[![Vercel Deployed](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://your-vercel-deployment-url.vercel.app)
+[![Vercel Deployed](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://fizzaxx-social.vercel.app/)
 
 ## ✨ Features
 
